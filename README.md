@@ -3,7 +3,7 @@ Includes ALL the things. Also mention other github/basecamp/stack overflow sites
 
 ## 1. Intro to structural variation
 
-
+[Hurles et al 2008](https://www.sciencedirect.com/science/article/pii/S0168952508000784?via%3Dihub) The functional impact of structural variation in humans.
 
 ## 2. Detecting SVs in whole genome data
 ### 2.1 SV calling methods
