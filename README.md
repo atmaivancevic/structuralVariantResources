@@ -1,5 +1,5 @@
 # Structural Variant Resources 
-Includes ALL the things. Also mention other github/basecamp/stack overflow sites that this was inspired by (e.g. geocarvalho github on sv-cnv-studies)
+ALL the things. Also mention other github/basecamp/stack overflow sites that this was inspired by (e.g. geocarvalho github on sv-cnv-studies)
 
 ## 1. Introduction to structural variation
 
@@ -26,8 +26,20 @@ The functional impact of structural variation in humans.
 ### 3.1 Population frequencies
 ### 3.2 Gene annotation
 ### 3.3 Impact prediction
-### 3.4 Visual inspection
-[IGV](https://software.broadinstitute.org/software/igv/): A high-performance visualization tool for interactive exploration of large, integrated genomic datasets. [Robinson et al 2011](https://www.nature.com/articles/nbt.1754).
+
+### 3.4 Visualisation
+[Integrative Genomics Viewer](https://software.broadinstitute.org/software/igv/): A high-performance visualization tool for interactive exploration of large, integrated genomic datasets. [Robinson et al 2011](https://www.nature.com/articles/nbt.1754).
+[Samplot](https://github.com/ryanlayer/samplot): A command line tool for rapid, multi-sample structural variant visualization. Samplot takes SV coordinates and bam files and produces high-quality images that highlight any alignment and depth signals that substantiate the SV. Layer 2018.
+[New Genome Browser]():
+[Ribbon]():
+[Pairoscope]():
+[Geometric Analysis of Structural Variants]():
+[Savant]():
+[Circos]():
+[ClicO FS]():
+[CGDV]():
+
+Usage notes/top picks: Samplot is great and easy to use. 
 
 ### 3.5 Crowd curation
 [SV-plaudit](https://github.com/jbelyeu/SV-plaudit): A cloud-assisted framework for manually curating thousands of structural variants. [Belyeu et al 2018](https://academic.oup.com/gigascience/article/7/7/giy064/5026174).
