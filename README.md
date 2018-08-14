@@ -5,11 +5,12 @@ Includes ALL the things. Also mention other github/basecamp/stack overflow sites
 
 ### 1.1 Overviews
 
-[do Nascimento et al 2017](https://www.computer.org/csdl/trans/tb/2017/06/07484749-abs.html) Copy Number Variations Detection: Unravelling the Problem in Tangible Aspects. IEEE/ACM Trans Comput Biol Bioinform. 14: 1237-1250.
+Copy Number Variations Detection: Unravelling the Problem in Tangible Aspects. [do Nascimento et al 2017](https://www.computer.org/csdl/trans/tb/2017/06/07484749-abs.html).
 
-[Escaramís et al 2015](https://academic.oup.com/bfg/article/14/5/305/184088) A decade of structural variants: description, history and methods to detect structural variation. Brief. Funct. Genomics 14: 305–314.
+A decade of structural variants: description, history and methods to detect structural variation. [Escaramís et al 2015](https://academic.oup.com/bfg/article/14/5/305/184088) .
 
-[Hurles et al 2008](https://www.sciencedirect.com/science/article/pii/S0168952508000784?via%3Dihub) The functional impact of structural variation in humans. Trends Genet. 24: 238–245.
+The functional impact of structural variation in humans. 
+[Hurles et al 2008](https://www.sciencedirect.com/science/article/pii/S0168952508000784?via%3Dihub). 
 
 ### 1.2 SVs in disease
 
@@ -29,7 +30,7 @@ Includes ALL the things. Also mention other github/basecamp/stack overflow sites
 
 
 ### 3.5 Crowd curation
-[SV-plaudit:](https://github.com/jbelyeu/SV-plaudit) A cloud-assisted framework for manually curating thousands of structural variants. [Belyeu et al 2018](https://academic.oup.com/gigascience/article/7/7/giy064/5026174).
+[SV-plaudit](https://github.com/jbelyeu/SV-plaudit): A cloud-assisted framework for manually curating thousands of structural variants. [Belyeu et al 2018](https://academic.oup.com/gigascience/article/7/7/giy064/5026174).
 
 ## 4. Ongoing problems and complications
 ### 4.1 Complex genomic regions
