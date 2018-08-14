@@ -1,7 +1,7 @@
 # Structural Variant Resources 
 Includes ALL the things. Also mention other github/basecamp/stack overflow sites that this was inspired by (e.g. geocarvalho github on sv-cnv-studies)
 
-## 1. Intro to structural variation
+## 1. Introduction to structural variation
 
 ### 1.1 Overviews
 
