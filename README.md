@@ -1,4 +1,4 @@
-# Structural Variant Resources for Newbies and Oldies
+# Structural Variant Resources 
 Includes ALL the things.
 
 
