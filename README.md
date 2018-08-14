@@ -1,7 +1,9 @@
 # Structural Variant Resources 
-Includes ALL the things.
+Includes ALL the things. Also mention other github/basecamp/stack overflow sites that this was inspired by (e.g. geocarvalho github on sv-cnv-studies)
 
 ## 1. Intro to structural variation
+
+
 
 ## 2. Detecting SVs in whole genome data
 ### 2.1 SV calling methods
