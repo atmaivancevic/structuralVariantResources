@@ -27,7 +27,7 @@ The functional impact of structural variation in humans.
 ### 3.2 Gene annotation
 ### 3.3 Impact prediction
 ### 3.4 Visual inspection
-
+[IGV](https://software.broadinstitute.org/software/igv/): A high-performance visualization tool for interactive exploration of large, integrated genomic datasets. [Robinson et al 2011](https://www.nature.com/articles/nbt.1754).
 
 ### 3.5 Crowd curation
 [SV-plaudit](https://github.com/jbelyeu/SV-plaudit): A cloud-assisted framework for manually curating thousands of structural variants. [Belyeu et al 2018](https://academic.oup.com/gigascience/article/7/7/giy064/5026174).
