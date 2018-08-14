@@ -29,7 +29,7 @@ Includes ALL the things. Also mention other github/basecamp/stack overflow sites
 
 
 ### 3.5 Crowd curation
-[2018 SV-plaudit](https://academic.oup.com/gigascience/article/7/7/giy064/5026174): A cloud-assisted framework for manually curating thousands of structural variants. [GitHub](https://github.com/jbelyeu/SV-plaudit).
+[Belyeu et al 2018](https://academic.oup.com/gigascience/article/7/7/giy064/5026174) SV-plaudit: A cloud-assisted framework for manually curating thousands of structural variants. [GitHub](https://github.com/jbelyeu/SV-plaudit).
 
 ## 4. Ongoing problems and complications
 ### 4.1 Complex genomic regions
