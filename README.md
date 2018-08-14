@@ -1,4 +1,4 @@
-# Structural Variant (SV) Resources 
+# Structural Variant Resources 
 Includes ALL the things.
 
 ## 1. Intro to structural variation
