@@ -40,7 +40,7 @@ The functional impact of structural variation in humans.
 
 [GASVPro](http://compbio.cs.brown.edu/projects/gasv/): An integrative probabilistic model for identification of structural variation in sequencing data. [Sindi et al 2012, Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2012-13-3-r22).
 
-[Savant]():
+[Savant](http://genomesavant.com/p/savant/index): A next-generation genome browser designed for the latest generation of genome data.   [Fuime et al 2010, Bioinformatics](https://academic.oup.com/bioinformatics/article/26/16/1938/217890).
 
 [Circos]():
 
