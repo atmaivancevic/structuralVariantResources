@@ -42,11 +42,11 @@ The functional impact of structural variation in humans.
 
 [Savant](http://genomesavant.com/p/savant/index): A next-generation genome browser designed for the latest generation of genome data.   [Fuime et al 2010, Bioinformatics](https://academic.oup.com/bioinformatics/article/26/16/1938/217890).
 
-[Circos]():
+[Circos](http://circos.ca/): A software package for visualizing data and information in a circular layout. [Krzywinski et al 2009, Genome Research](https://genome.cshlp.org/content/early/2009/06/15/gr.092759.109.abstract).
 
-[ClicO FS]():
+[ClicO FS](http://codoncloud.com:3000): An interactive web-based service of Circos. [Cheong et al 2015, Bioinformatics](https://academic.oup.com/bioinformatics/article/31/22/3685/241292).
 
-[CGDV]():
+[CGDV](https://cgdv-upload.persistent.co.in/cgdv/): Another webtool for Circos genomics and transcriptomics data. [Jha et al 2016, BMC Genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-4169-5).
 
 Usage notes/top picks: Samplot is great and easy to use. 
 
