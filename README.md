@@ -29,14 +29,23 @@ The functional impact of structural variation in humans.
 
 ### 3.4 Visualisation
 [Integrative Genomics Viewer](https://software.broadinstitute.org/software/igv/): A high-performance visualization tool for interactive exploration of large, integrated genomic datasets. [Robinson et al 2011](https://www.nature.com/articles/nbt.1754).
+
 [Samplot](https://github.com/ryanlayer/samplot): A command line tool for rapid, multi-sample structural variant visualization. Samplot takes SV coordinates and bam files and produces high-quality images that highlight any alignment and depth signals that substantiate the SV. Layer 2018.
+
 [New Genome Browser]():
+
 [Ribbon]():
+
 [Pairoscope]():
+
 [Geometric Analysis of Structural Variants]():
+
 [Savant]():
+
 [Circos]():
+
 [ClicO FS]():
+
 [CGDV]():
 
 Usage notes/top picks: Samplot is great and easy to use. 
