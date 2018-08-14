@@ -1,0 +1,2 @@
+# structuralVariantResources
+ALL the things.
