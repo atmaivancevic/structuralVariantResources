@@ -51,7 +51,7 @@ The functional impact of structural variation in humans.
 Usage notes/top picks: Samplot is great and easy to use. 
 
 ### 3.5 Crowd curation
-[SV-plaudit](https://github.com/jbelyeu/SV-plaudit): A cloud-assisted framework for manually curating thousands of structural variants. [Belyeu et al 2018](https://academic.oup.com/gigascience/article/7/7/giy064/5026174).
+[SV-plaudit](https://github.com/jbelyeu/SV-plaudit): A cloud-assisted framework for manually curating thousands of structural variants. [Belyeu et al 2018 GigaScience](https://academic.oup.com/gigascience/article/7/7/giy064/5026174).
 
 ## 4. Ongoing problems and complications
 ### 4.1 Complex genomic regions
