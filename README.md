@@ -1,7 +1,7 @@
 # Structural Variant (SV) Resources 
 Includes ALL the things.
 
-## 1. Introduction/background on SVs
+## 1. Background on SVs
 
 ## 2. Detecting SVs in whole genome data
 ### 2.1 SV calling methods
