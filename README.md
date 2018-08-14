@@ -5,11 +5,11 @@ Includes ALL the things. Also mention other github/basecamp/stack overflow sites
 
 ### 1.1 Overviews
 
-- Copy Number Variations Detection: Unravelling the Problem in Tangible Aspects. [do Nascimento et al 2017](https://www.computer.org/csdl/trans/tb/2017/06/07484749-abs.html).
+-Copy Number Variations Detection: Unravelling the Problem in Tangible Aspects. [do Nascimento et al 2017](https://www.computer.org/csdl/trans/tb/2017/06/07484749-abs.html).
 
-- A decade of structural variants: description, history and methods to detect structural variation. [Escaramís et al 2015](https://academic.oup.com/bfg/article/14/5/305/184088).
+-A decade of structural variants: description, history and methods to detect structural variation. [Escaramís et al 2015](https://academic.oup.com/bfg/article/14/5/305/184088).
 
-- The functional impact of structural variation in humans. 
+-The functional impact of structural variation in humans. 
 [Hurles et al 2008](https://www.sciencedirect.com/science/article/pii/S0168952508000784?via%3Dihub). 
 
 ### 1.2 SVs in disease
