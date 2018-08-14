@@ -38,7 +38,7 @@ The functional impact of structural variation in humans.
 
 [Pairoscope](http://pairoscope.sourceforge.net/): A quick and simple diagrams indicating the relationship of paired end sequencing reads. It functions by displaying multiple genomic regions, their read depth at each base in the region and arcs within or between regions to indicate pairing information. [David Larson 2010 SourceForge](http://pairoscope.sourceforge.net/).
 
-[Geometric Analysis of Structural Variants]():
+[GASVPro](http://compbio.cs.brown.edu/projects/gasv/): An integrative probabilistic model for identification of structural variation in sequencing data. [Sindi et al 2012 Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2012-13-3-r22).
 
 [Savant]():
 
