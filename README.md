@@ -32,7 +32,7 @@ The functional impact of structural variation in humans.
 
 [Samplot](https://github.com/ryanlayer/samplot): A command line tool for rapid, multi-sample structural variant visualization. Samplot takes SV coordinates and bam files and produces high-quality images that highlight any alignment and depth signals that substantiate the SV. [Ryan Layer 2018 GitHub](https://github.com/ryanlayer/samplot).
 
-[New Genome Browser](https://github.com/epam/NGB): A web-based NGS data viewer with SV visualization capabilities, high performance, scalability, and cloud data support.
+[New Genome Browser](https://github.com/epam/NGB): A web-based NGS data viewer with SV visualization capabilities, high performance, scalability, and cloud data support. [EPAM Systems 2017 GitHub](https://github.com/epam/NGB)
 
 [Ribbon](http://genomeribbon.com/): For visualizing complex genome alignments and structural variation. [Nattestad et al 2016 bioRxiv](https://www.biorxiv.org/content/early/2016/10/20/082123).
 
