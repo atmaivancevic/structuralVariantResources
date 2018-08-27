@@ -6,7 +6,7 @@ Papers are sorted by year of publication and provided in the following format:
 
 *Title. Author Year, Journal (link_to_paper).*
 
-Tools include both the software/GitHub link (if available) and the original paper, as follows:
+Tools include both the software/GitHub link and the original paper, as follows:
 
 *Software (link_to_software): Description. Author Year, Journal (link_to_paper).*
 
