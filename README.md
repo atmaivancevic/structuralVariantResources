@@ -12,7 +12,7 @@ Tools include both the software/GitHub link and the original paper, as follows:
 
 ## 1. Introduction to structural variation
 
-### 1.1 Overviews
+Quick overviews:
 
 Copy Number Variations Detection: Unravelling the Problem in Tangible Aspects. [do Nascimento et al 2017, IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://www.computer.org/csdl/trans/tb/2017/06/07484749-abs.html).
 
@@ -20,10 +20,6 @@ A decade of structural variants: description, history and methods to detect stru
 
 The functional impact of structural variation in humans. 
 [Hurles et al 2008, Trends Genet](https://www.sciencedirect.com/science/article/pii/S0168952508000784?via%3Dihub). 
-
-### 1.2 SVs in disease
-
-### 1.3 SVs in evolution
 
 ## 2. Detecting SVs in whole genome data
 ### 2.1 Genome quality checks
@@ -265,17 +261,3 @@ Recommended reading:
 ### 3.5 Crowd curation
 
 - [SV-plaudit](https://github.com/jbelyeu/SV-plaudit): A cloud-assisted framework for manually curating thousands of structural variants. [Belyeu et al 2018, GigaScience](https://academic.oup.com/gigascience/article/7/7/giy064/5026174).
-
-## 4. Ongoing problems and complications
-### 4.1 Complex genomic regions
-### 4.2 Complex diseases
-### 4.3 Proband-only singletons
-
-## 5. Conclusions
-
-## 6. Extra reading for the extra keen
-
-
-
-
-
