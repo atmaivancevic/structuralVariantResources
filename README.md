@@ -3,10 +3,12 @@
 A collated list of available tools and useful papers for structural variant analysis. 
 
 Papers are sorted by year of publication and provided in the following format:
-TITLE. AUTHOR YEAR, JOURNAL (link_to_paper).
+
+Title. Author Year, Journal (link_to_paper).
 
 Tools include both software links (if available) and original paper, as follows:
-SOFTWARE (link_to_software): DESCRIPTION. AUTHOR YEAR, JOURNAL (link_to_paper).
+
+Software (link_to_software): Description. Author Year, Journal (link_to_paper).
 
 ## 1. Introduction to structural variation
 
