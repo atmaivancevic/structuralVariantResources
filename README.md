@@ -211,7 +211,7 @@ The following tools were collated from recent reviews, e.g.:
 
 - [New Genome Browser](https://github.com/epam/NGB): A web-based NGS data viewer with SV visualization capabilities, high performance, scalability, and cloud data support. [EPAM Systems 2017, GitHub](https://github.com/epam/NGB).
 
-- [Ribbon](http://genomeribbon.com/): For visualizing complex genome alignments and structural variation. [Nattestad et al 2016, bioRxiv](https://www.biorxiv.org/content/early/2016/10/20/082123).
+- [Ribbon](http://genomeribbon.com/): For visualizing complex genome alignments and structural variation. [Nattestad et al 2016, BioRxiv](https://www.biorxiv.org/content/early/2016/10/20/082123).
 
 - [CGDV](https://cgdv-upload.persistent.co.in/cgdv/): Another webtool for Circos genomics and transcriptomics data. [Jha et al 2016, BMC Genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-4169-5).
 
@@ -229,7 +229,7 @@ The following tools were collated from recent reviews, e.g.:
 
 ### 3.5 Crowd curation
 
-- [SV-plaudit](https://github.com/jbelyeu/SV-plaudit): A cloud-assisted framework for manually curating thousands of structural variants. [Belyeu et al 2018 GigaScience](https://academic.oup.com/gigascience/article/7/7/giy064/5026174).
+- [SV-plaudit](https://github.com/jbelyeu/SV-plaudit): A cloud-assisted framework for manually curating thousands of structural variants. [Belyeu et al 2018, GigaScience](https://academic.oup.com/gigascience/article/7/7/giy064/5026174).
 
 ## 4. Ongoing problems and complications
 ### 4.1 Complex genomic regions
