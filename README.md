@@ -234,7 +234,15 @@ Recommended reading:
 
 ### 3.3 Impact prediction
 
+- [DOMINO](https://wwwfbm.unil.ch/domino/index.html): Using Machine Learning to Predict Genes Associated with Dominant Disorders. [Quinodoz et al 2017, Am J Hum Genet](paperlink).
 
+- [SVScore](https://github.com/lganel/SVScore): SVScore: an impact prediction tool for structural variation. [Ganel et al 2017, Bioinformatics](https://academic.oup.com/bioinformatics/article/33/7/1083/2748212).
+
+- [VEP](https://asia.ensembl.org/info/docs/tools/vep/index.html): The Ensembl Variant Effect Predictor. [McLaren et al 2016, Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0974-4).
+
+- [SnpEFF](http://snpeff.sourceforge.net/): A program for annotating and predicting the effects of single nucleotide polymorphisms. [Cingolani et al 2012, Fly](https://www.tandfonline.com/doi/abs/10.4161/fly.19695).
+
+- [ANNOVAR](http://annovar.openbioinformatics.org/en/latest/): Functional annotation of genetic variants from high-throughput sequencing data. [Wang et al 2010, Nucleic Acids Res](https://academic.oup.com/nar/article/38/16/e164/1749458).
 
 ### 3.4 Visualization
 
