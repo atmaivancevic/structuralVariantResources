@@ -112,13 +112,13 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 ##### RD + PR:
 
-[inGAP-sv](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[GASVPro](http://compbio.cs.brown.edu/projects/gasv/): An Integrative Probabilistic Model for Identification of Structural Variation in Sequencing Data. [Sindi et al 2012, Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2012-13-3-r22).
 
-[CNVer](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[inGAP-sv](http://ingap.sourceforge.net/): A novel scheme to identify and visualize structural variation from paired end mapping data. [Qi et al 2011, Nucleic Acids Res.](https://academic.oup.com/nar/article/39/suppl_2/W567/2507282).
 
-[GASVpro](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[CNVer](http://compbio.cs.toronto.edu/CNVer/): Detecting copy number variation with mated short reads. [Medvedev et al 2010, Genome Research](https://genome.cshlp.org/content/20/11/1613).
 
-[SVDetect](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[SVDetect](http://svdetect.sourceforge.net/Site/Home.html): A tool to identify genomic structural variations from paired-end and mate-pair sequencing data. [Zeitouni et al 2010, Bioinformatics](https://academic.oup.com/bioinformatics/article/26/15/1895/188785).
 
 ##### RD + SR:
 
