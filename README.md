@@ -70,7 +70,7 @@ The functional impact of structural variation in humans.
 
 #### Combination methods:
 
-Some tools use a combination of different strategies to find SVs. Here are some examples collated from recent reviews, e.g.
+Some tools use a combination of different strategies to find SVs. Here are some examples collated from recent reviews, e.g.:
 
 Detection of Genomic Structural Variants from Next-Generation Sequencing Data. [Tattini et al 2015, Front Bioeng Biotechnol](https://www.frontiersin.org/articles/10.3389/fbioe.2015.00092/full).
 
@@ -80,19 +80,69 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 ##### PR + SR:
 
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
 ##### RD + PR:
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 [SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 ##### RD + SR:
 
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
 ##### PR + LR:
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 ##### SR + LR:
 
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
 ##### PR + SR + RD:
 
+[Genome STRiP](http://software.broadinstitute.org/software/genomestrip/): Discovery and genotyping of genome structural polymorphism by sequencing on a population scale. [Handsaker et al Nature Genetics, 2011](https://www.nature.com/articles/ng.768).
 
+[Genome STRiP v2.0](http://software.broadinstitute.org/software/genomestrip/genome-strip-20): A new CNV discovery and genotyping pipeline. Large multiallelic copy number variations in humans. [Handsaker et al Nature Genetics, 2015](https://www.nature.com/articles/ng.3200).
 
 
 #### Other:
