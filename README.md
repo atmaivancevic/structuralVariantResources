@@ -90,13 +90,9 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 #### Local re-assembly (LR):
 
-[Cortex](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[TIGRA](http://bioinformatics.mdanderson.org/main/TIGRA): A targeted iterative graph routing assembler for breakpoint assembly. [Chen et al 2014, Genome Research](https://genome.cshlp.org/content/24/2/310).
 
-[TIGRA](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[Cortex](http://cortexassembler.sourceforge.net/): De novo assembly and genotyping of variants using colored de bruijn graphs. [Iqbal et al 2012, Nature Genetics](https://www.nature.com/articles/ng.1028).
 
 #### Combination methods:
 
