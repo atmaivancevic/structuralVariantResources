@@ -1,7 +1,7 @@
 # Structural Variant Resources 
 ALL the things. Also mention other github/basecamp/stack overflow sites that this was inspired by (e.g. geocarvalho github on sv-cnv-studies)
 
-Listed tools include hyperlinks to both the original paper and software and are sorted by publication date (newest first). 
+Listed tools include hyperlinks to both the original paper and software and are sorted by publication year (newest first). 
 
 ## 1. Introduction to structural variation
 
@@ -56,33 +56,33 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 #### Read depth (RD):
 
-[CNVnator](https://github.com/abyzovlab/CNVnator): An approach to discover, genotype, and characterize typical and atypical cnvs from family and population genome sequencing. [Abyzov et al 2011, Genome Research](https://genome.cshlp.org/content/21/6/974).
-
-[EXCAVATOR](https://sourceforge.net/projects/excavatortool/): Detecting copy number variants from whole-exome sequencing data. [Magi et al 2013, Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-10-r120).
-
-[ExomeCNV](http://www2.uaem.mx/r-mirror/web/packages/ExomeCNV/index.html): Exome sequencing-based copy-number variation and loss of heterozygosity detection. [Sathirapongsasuti et al 2011, Bioinformatics](https://academic.oup.com/bioinformatics/article/27/19/2648/231564).
-
-[CoNIFER](http://conifer.sourceforge.net/): Copy number variation detection and genotyping from exome sequence data. [Krumm et al 2012, Genome Research](https://genome.cshlp.org/content/22/8/1525).
-
 [CODEX](https://github.com/yuchaojiang/CODEX2): A normalization and copy number variation detection method for whole exome sequencing. [Jiang et al 2015, Nucleic Acids Research](https://academic.oup.com/nar/article/43/6/e39/2453417).
-
-[XHMM](http://atgu.mgh.harvard.edu/xhmm/tutorial.shtml): Discovery and statistical genotyping of copy-number variation from whole-exome sequencing depth. [Fromer et al 2012, Am. J. Hum. Genet](https://www.sciencedirect.com/science/article/pii/S000292971200417X?via%3Dihub).
 
 [ONCOCNV](http://boevalab.com/ONCOCNV/): Multi-factor data normalization enables the detection of copy number aberrations in amplicon sequencing data. [Boeva et al 2014, Bioinformatics](https://academic.oup.com/bioinformatics/article/30/24/3443/2422154).
 
-[SegSeq](https://software.broadinstitute.org/software/cprg/?q=node/39): High-resolution mapping of copy-number alterations with massively parallel sequencing. [Chiang et al 2009, Nature Methods](https://www.nature.com/articles/nmeth.1276).
+[EXCAVATOR](https://sourceforge.net/projects/excavatortool/): Detecting copy number variants from whole-exome sequencing data. [Magi et al 2013, Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-10-r120).
+
+[CoNIFER](http://conifer.sourceforge.net/): Copy number variation detection and genotyping from exome sequence data. [Krumm et al 2012, Genome Research](https://genome.cshlp.org/content/22/8/1525).
+
+[XHMM](http://atgu.mgh.harvard.edu/xhmm/tutorial.shtml): Discovery and statistical genotyping of copy-number variation from whole-exome sequencing depth. [Fromer et al 2012, Am. J. Hum. Genet](https://www.sciencedirect.com/science/article/pii/S000292971200417X?via%3Dihub).
 
 [CNAnorm](http://www.precancer.leeds.ac.uk/software-and-datasets/cnanorm/): Correcting for cancer genome size and tumour cell content enables better estimation of copy number alterations from next-generation sequence data. [Gusnanto et al 2012, Bioinformatics](https://academic.oup.com/bioinformatics/article/28/1/40/218361).
 
-[CNAseg](https://www.compbio.group.cam.ac.uk/software/cnaseg): A novel framework for identification of copy number changes in cancer from second-generation sequencing data. [Ivakhno et al 2010, Bioinformatics](https://academic.oup.com/bioinformatics/article/26/24/3051/288761).
-
 [cn.MOPS](http://www.bioinf.jku.at/software/cnmops/): Mixture of Poissons for discovering copy number variations in next-generation sequencing data with a low false discovery rate. [Klambauer et al 2012, Nucleic Acids Research](https://academic.oup.com/nar/article/40/9/e69/1136601).
+
+[CNVnator](https://github.com/abyzovlab/CNVnator): An approach to discover, genotype, and characterize typical and atypical cnvs from family and population genome sequencing. [Abyzov et al 2011, Genome Research](https://genome.cshlp.org/content/21/6/974).
+
+[ExomeCNV](http://www2.uaem.mx/r-mirror/web/packages/ExomeCNV/index.html): Exome sequencing-based copy-number variation and loss of heterozygosity detection. [Sathirapongsasuti et al 2011, Bioinformatics](https://academic.oup.com/bioinformatics/article/27/19/2648/231564).
 
 [JointSLM](http://www.mybiosoftware.com/jointslm-0-1-detect-recurrent-copy-number-variations-depth-coverage-data.html): Detecting common copy number variants in high-throughput sequencing data by using jointslm algorithm. [Magi et al 2011, Nucleic Acids Res](https://academic.oup.com/nar/article/39/10/e65/1309398).
 
 [ReadDepth](https://github.com/chrisamiller/readdepth): A parallel r package for detecting copy number alterations from short sequencing reads. [Miller et al 2011, PLoS ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0016327).
 
 [BIC-seq](http://compbio.med.harvard.edu/BIC-seq/): Copy number variation detection in whole-genome sequencing data using the bayesian information criterion. [Xi et al 2011, Proc. Natl. Acad. Sci.](http://www.pnas.org/content/108/46/E1128).
+
+[CNAseg](https://www.compbio.group.cam.ac.uk/software/cnaseg): A novel framework for identification of copy number changes in cancer from second-generation sequencing data. [Ivakhno et al 2010, Bioinformatics](https://academic.oup.com/bioinformatics/article/26/24/3051/288761).
+
+[SegSeq](https://software.broadinstitute.org/software/cprg/?q=node/39): High-resolution mapping of copy-number alterations with massively parallel sequencing. [Chiang et al 2009, Nature Methods](https://www.nature.com/articles/nmeth.1276).
 
 [CNV-seq](http://tiger.dbs.nus.edu.sg/CNV-seq/): A new method to detect copy number variation using high-throughput sequencing. [Xie et al 2009, BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-80).
 
