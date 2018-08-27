@@ -66,31 +66,27 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 [CODEX](https://github.com/yuchaojiang/CODEX2): A normalization and copy number variation detection method for whole exome sequencing. [Jiang et al 2015, Nucleic Acids Research](https://academic.oup.com/nar/article/43/6/e39/2453417).
 
-[XHMM](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[XHMM](http://atgu.mgh.harvard.edu/xhmm/tutorial.shtml): Discovery and statistical genotyping of copy-number variation from whole-exome sequencing depth. [Fromer et al 2012, Am. J. Hum. Genet](https://www.sciencedirect.com/science/article/pii/S000292971200417X?via%3Dihub).
 
-[ONCOCNV](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[ONCOCNV](http://boevalab.com/ONCOCNV/): Multi-factor data normalization enables the detection of copy number aberrations in amplicon sequencing data. [Boeva et al 2014, Bioinformatics](https://academic.oup.com/bioinformatics/article/30/24/3443/2422154).
 
-[SegSeq](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[SegSeq](https://software.broadinstitute.org/software/cprg/?q=node/39): High-resolution mapping of copy-number alterations with massively parallel sequencing. [Chiang et al 2009, Nature Methods](https://www.nature.com/articles/nmeth.1276).
 
-[CNAnorm](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[CNAnorm](http://www.precancer.leeds.ac.uk/software-and-datasets/cnanorm/): Correcting for cancer genome size and tumour cell content enables better estimation of copy number alterations from next-generation sequence data. [Gusnanto et al 2012, Bioinformatics](https://academic.oup.com/bioinformatics/article/28/1/40/218361).
 
-[CNAseg](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[CNAseg](https://www.compbio.group.cam.ac.uk/software/cnaseg): A novel framework for identification of copy number changes in cancer from second-generation sequencing data. [Ivakhno et al 2010, Bioinformatics](https://academic.oup.com/bioinformatics/article/26/24/3051/288761).
 
-[rSW-seq](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[cn.MOPS](http://www.bioinf.jku.at/software/cnmops/): Mixture of Poissons for discovering copy number variations in next-generation sequencing data with a low false discovery rate. [Klambauer et al 2012, Nucleic Acids Research](https://academic.oup.com/nar/article/40/9/e69/1136601).
 
-[cn.MOPS](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[JointSLM](http://www.mybiosoftware.com/jointslm-0-1-detect-recurrent-copy-number-variations-depth-coverage-data.html): Detecting common copy number variants in high-throughput sequencing data by using jointslm algorithm. [Magi et al 2011, Nucleic Acids Res](https://academic.oup.com/nar/article/39/10/e65/1309398).
 
-[JointSLM](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[ReadDepth](https://github.com/chrisamiller/readdepth): A parallel r package for detecting copy number alterations from short sequencing reads. [Miller et al 2011, PLoS ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0016327).
 
-[ReadDepth](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[BIC-seq](http://compbio.med.harvard.edu/BIC-seq/): Copy number variation detection in whole-genome sequencing data using the bayesian information criterion. [Xi et al 2011, Proc. Natl. Acad. Sci.](http://www.pnas.org/content/108/46/E1128).
 
-[BIC-seq](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[CNV-seq](http://tiger.dbs.nus.edu.sg/CNV-seq/): A new method to detect copy number variation using high-throughput sequencing. [Xie et al 2009, BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-80).
 
-[PSCC](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[CNV-seq](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[RDXplorer](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[RDXplorer](http://rdxplorer.sourceforge.net/): Sensitive and accurate detection of copy number variants using read depth of coverage. [Yoon et al 2009, Genome Research](https://genome.cshlp.org/content/19/9/1586).
 
 #### Local re-assembly (LR):
 
