@@ -32,31 +32,25 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 [Socrates](http://bioinf.wehi.edu.au/socrates/): Identification of genomic rearrangements in tumour genomes by re-aligning soft clipped reads. [Schroder et al 2014, Bioinformatics](https://academic.oup.com/bioinformatics/article/30/8/1064/257640).
 
-[SVseq2](http://www.engr.uconn.edu/~jiz08001/): An improved approach for accurate and efficient calling of structural variations with low-coverage sequence data. [Zhang et al 2012, BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S6).
-
 [MultiBreak-SV](https://github.com/raphael-group/multibreak-sv): Characterization of structural variants with single molecule and hybrid sequencing approaches. [Ritz et al 2014, Bioinformatics](https://academic.oup.com/bioinformatics/article/30/24/3458/2422243).
 
-[Gustaf](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[Gustaf](https://github.com/seqan/seqan/tree/master/apps/gustaf): Detecting and correctly classifying SVs in the NGS twilight zone. [Trappe et al 2014, Bioinformatics](https://academic.oup.com/bioinformatics/article/30/24/3484/2422148).
 
-[Splitread](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[SVseq2](http://www.engr.uconn.edu/~jiz08001/): An improved approach for accurate and efficient calling of structural variations with low-coverage sequence data. [Zhang et al 2012, BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S6).
+
+[Splitread](http://splitread.sourceforge.net/): Detection of structural variants and indels within exome data. [Karakoc et al 2012, Nature Methods](https://www.nature.com/articles/nmeth.1810).
 
 #### Paired read (PR):
 
-[DELLY](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[The CLEVER Toolkit](https://bitbucket.org/tobiasmarschall/clever-toolkit): Clique-enumerating variant finder. [Marschall et al 2012, Bioinformatics](https://academic.oup.com/bioinformatics/article/28/22/2875/243930).
 
-[CLEVER](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[VariationHunter](http://variationhunter.sourceforge.net/Home): Simultaneous structural variation discovery among multiple paired-end sequenced genomes. [Hormozdiari et al 2011, Genome Research](https://genome.cshlp.org/content/21/12/2203).
 
-[BreakDancer](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[BreakDancer](http://breakdancer.sourceforge.net/): An algorithm for high-resolution mapping of genomic structural variation. [Chen et al 2009, Nature Methods](https://www.nature.com/articles/nmeth.1363).
 
-[VariationHunter](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[PEMer](http://sv.gersteinlab.org/pemer/): A computational framework with simulation-based error models for inferring genomic structural variants from massive paired-end sequencing data. [Korbel et al 2009, Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2009-10-2-r23).
 
-[PEMer](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[MoDIL](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[MoDIL](http://compbio.cs.toronto.edu/modil/): Detecting small indels from clone-end sequencing with mixtures of distributions. [Lee et al 2009, Nature Methods](https://www.nature.com/articles/nmeth.f.256).
 
 #### Read depth (RD):
 
@@ -250,6 +244,7 @@ GRIDDS
 Usage notes/top picks: Samplot is great and easy to use. 
 
 ### 3.5 Crowd curation
+
 [SV-plaudit](https://github.com/jbelyeu/SV-plaudit): A cloud-assisted framework for manually curating thousands of structural variants. [Belyeu et al 2018 GigaScience](https://academic.oup.com/gigascience/article/7/7/giy064/5026174).
 
 ## 4. Ongoing problems and complications
