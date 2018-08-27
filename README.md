@@ -24,11 +24,11 @@ The functional impact of structural variation in humans.
 
 The following tools were collated from recent reviews, e.g.:
 
-Recent advances in the detection of repeat expansions with short-read next-generation sequencing. [Bahlo et al 2018, F1000Research](https://f1000research.com/articles/7-736/v1).
+- Recent advances in the detection of repeat expansions with short-read next-generation sequencing. [Bahlo et al 2018, F1000Research](https://f1000research.com/articles/7-736/v1).
 
-Detection of Genomic Structural Variants from Next-Generation Sequencing Data. [Tattini et al 2015, Front Bioeng Biotechnol](https://www.frontiersin.org/articles/10.3389/fbioe.2015.00092/full).
+- Detection of Genomic Structural Variants from Next-Generation Sequencing Data. [Tattini et al 2015, Front Bioeng Biotechnol](https://www.frontiersin.org/articles/10.3389/fbioe.2015.00092/full).
 
-Transposable element detection from whole genome sequence data. [Ewing et al 2015, Mobile DNA](https://mobilednajournal.biomedcentral.com/articles/10.1186/s13100-015-0055-3).
+- Transposable element detection from whole genome sequence data. [Ewing et al 2015, Mobile DNA](https://mobilednajournal.biomedcentral.com/articles/10.1186/s13100-015-0055-3).
 
 #### Split read (SR): 
 
