@@ -17,8 +17,14 @@ The functional impact of structural variation in humans.
 ### 1.3 SVs in evolution
 
 ## 2. Detecting SVs in whole genome data
-### 2.1 SV calling methods
-### 2.2 Genome quality checks
+### 2.1 Genome quality checks
+### 2.2 Stuctural variant calling methods
+
+##### Split read (SR): 
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+
+
 ### 2.3 Filtering false calls
 ### 2.4 Standardizing output
 
@@ -27,7 +33,7 @@ The functional impact of structural variation in humans.
 ### 3.2 Gene annotation
 ### 3.3 Impact prediction
 
-### 3.4 Visualisation
+### 3.4 Visualization
 
 [Circos](http://circos.ca/): A software package for visualizing data and information in a circular layout. [Krzywinski et al 2009, Genome Research](https://genome.cshlp.org/content/early/2009/06/15/gr.092759.109.abstract).
 
@@ -61,7 +67,7 @@ Usage notes/top picks: Samplot is great and easy to use.
 
 ## 5. Conclusions
 
-## 6. Extra reading for the super keen
+## 6. Extra reading for the extra keen
 
 
 
