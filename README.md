@@ -169,15 +169,9 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 ##### Tools for building a graph reference genome:
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[Variation Graph](https://github.com/vgteam/vg): Sequence variation aware genome references and read mapping with the variation graph toolkit. [Garrison et al 2017, BioRxiv](https://www.biorxiv.org/content/early/2017/12/15/234856).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[Graph Genome Suite (Commercial)](https://www.sevenbridges.com/graph/): Fast and Accurate Genomic Analyses using Genome Graphs. [Rakocevic et al 2017, BioRxiv](https://www.biorxiv.org/content/early/2018/03/20/194530).
 
 ### 2.3 Filtering false calls
 ### 2.4 Standardizing output
