@@ -12,8 +12,6 @@ Tools include both the software/GitHub link and the original paper, as follows:
 
 ## 1. Introduction to structural variation
 
-Quick overviews:
-
 Copy Number Variations Detection: Unravelling the Problem in Tangible Aspects. [do Nascimento et al 2017, IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://www.computer.org/csdl/trans/tb/2017/06/07484749-abs.html).
 
 A decade of structural variants: description, history and methods to detect structural variation. [Escaramís et al 2015, Brief Funct Genomics](https://academic.oup.com/bfg/article/14/5/305/184088).
