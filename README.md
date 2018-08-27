@@ -94,6 +94,8 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 [Cortex](http://cortexassembler.sourceforge.net/): De novo assembly and genotyping of variants using colored de bruijn graphs. [Iqbal et al 2012, Nature Genetics](https://www.nature.com/articles/ng.1028).
 
+[Magnolya](https://sourceforge.net/projects/magnolya/): De novo detection of copy number variation by co-assembly. [Nijkamp et al 2012, Bioinformatics](https://academic.oup.com/bioinformatics/article/28/24/3195/245056).
+
 #### Combination methods:
 
 ##### PR + SR:
@@ -145,15 +147,15 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 #### Other:
 ##### Tools for detecting mobile element transpositions:
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[RetroSeq](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[Tea](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[Tangram](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[Mobster](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[MELT](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 ##### Tools for detecting short repeat expansions:
 
