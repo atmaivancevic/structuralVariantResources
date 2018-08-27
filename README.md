@@ -138,7 +138,7 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 [Genome STRiP (v2.0)](http://software.broadinstitute.org/software/genomestrip/): A new CNV discovery and genotyping pipeline. Large multiallelic copy number variations in humans. [Handsaker et al Nature Genetics, 2015](https://www.nature.com/articles/ng.3200).
 
-##### PR + SR + LR
+##### PR + SR + LR:
 
 [GRIDSS](https://github.com/PapenfussLab/gridss): Sensitive and specific genomic rearrangement detection using positional de Bruijn graph assembly. [Cameron et al Genome Research, 2017](https://genome.cshlp.org/content/early/2017/11/02/gr.222109.117.abstract).
 
