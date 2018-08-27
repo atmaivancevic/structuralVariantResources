@@ -1,7 +1,7 @@
 # Structural Variant Resources 
 ALL the things. Also mention other github/basecamp/stack overflow sites that this was inspired by (e.g. geocarvalho github on sv-cnv-studies)
 
-Listed tools include hyperlinks to both the original paper and software and are sorted by publication year (newest first). 
+Listed tools include hyperlinks to the original paper and open source software (if available), and are sorted by publication year (newest first). 
 
 ## 1. Introduction to structural variation
 
@@ -98,9 +98,9 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 ##### PR + SR:
 
-[SoftSearch](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[SoftSearch](https://omictools.com/softsearch-tool?t=tab-tool-variant-0): Integration of Multiple Sequence Features to Identify Breakpoints of Structural Variations. [Hart et al 2013, PLoS ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0083356).
 
-[MATE-CLEVER](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[MATE-CLEVER](https://bitbucket.org/tobiasmarschall/clever-toolkit): Mendelian-inheritance-aware discovery and genotyping of midsize and long indels. [Marschall et al 2013, Bioinformatics](https://academic.oup.com/bioinformatics/article/29/24/3143/194997).
 
 [PRISM](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
