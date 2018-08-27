@@ -24,11 +24,11 @@ The functional impact of structural variation in humans.
 
 The following examples were collated from recent reviews, e.g.:
 
+Recent advances in the detection of repeat expansions with short-read next-generation sequencing. [Bahlo et al 2018, F1000Research](https://f1000research.com/articles/7-736/v1).
+
 Detection of Genomic Structural Variants from Next-Generation Sequencing Data. [Tattini et al 2015, Front Bioeng Biotechnol](https://www.frontiersin.org/articles/10.3389/fbioe.2015.00092/full).
 
-PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
+Transposable element detection from whole genome sequence data. [Ewing et al 2015, Mobile DNA](https://mobilednajournal.biomedcentral.com/articles/10.1186/s13100-015-0055-3).
 
 #### Split read (SR): 
 
@@ -149,13 +149,37 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 [MELT](http://melt.igs.umaryland.edu/): Population-scale mobile element discovery and biology. [Gardner et al 2017, Genome Research](https://genome.cshlp.org/content/27/11/1916).
 
+[T-lex/T-lex2](http://petrov.stanford.edu/cgi-bin/Tlex.html): Genotyping, frequency estimation and re-annotation of transposable elements using single or pooled next-generation sequencing data. [Fiston-Lavier et al 2015, Nucleic Acids Res.](https://academic.oup.com/nar/article/43/4/e22/2410985).
+
+[DD_DETECTION](https://bitbucket.org/mkroon/dd_detection): Detecting dispersed duplications in high-throughput sequencing data using a database-free approach. [Kroon et al 2015, Bioinformatics](https://academic.oup.com/bioinformatics/article/32/4/505/1744181).
+
+[Jitterbug](http://sourceforge.net/projects/jitterbug/): Somatic and germline transposon insertion detection at single-nucleotide resolution. [Henaff et al 2015, BMC genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1975-5).
+
+[ITIS](http://bioinformatics.psc.ac.cn/software/ITIS/): A bioinformatics tool for accurate identification of transposon insertion sites using next-generation sequencing data. [Jiang et al 2015, BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0507-2).
+
 [Mobster](https://sourceforge.net/projects/mobster/): Accurate detection of mobile element insertions in next generation sequencing data. [Thung et al 2014, Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0488-x).
 
 [Tangram](https://github.com/jiantao/Tangram): A comprehensive toolbox for mobile element insertion detection. [Wu et al 2014, BMC Genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-795).
 
+[TE-Tracker](http://www.genoscope.cns.fr/externe/tetracker/): Systematic identification of transposition events through whole-genome resequencing. [Gilly et al 2014, BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-014-0377-z).
+
+[TranspoSeq](https://www.broadinstitute.org/cancer/cga/transposeq): Somatic retrotransposition in human cancer revealed by whole-genome and exome sequencing. [Helman et al 2014, Genome Research](https://genome.cshlp.org/content/24/7/1053).
+
+[TraFiC](https://github.com/cancerit/TraFiC): Extensive transduction of nonrepetitive DNA mediated by L1 retrotransposition in cancer genomes. [Tubio et al 2014, Science](http://science.sciencemag.org/content/345/6196/1251343).
+
+[TEMP](https://github.com/JialiUMassWengLab/TEMP): A computational method for analyzing transposable element polymorphism in populations. [Zhuang et al 2014, Nucleic Acids Res](https://academic.oup.com/nar/article/42/11/6826/1431591).
+
 [RetroSeq](https://github.com/tk2/RetroSeq): Transposable element discovery from next-generation sequencing data. [Keane et al 2013, Bioinformatics](https://academic.oup.com/bioinformatics/article/29/3/389/257479).
 
+[GRIPper](https://github.com/adamewing/GRIPper): Retrotransposition of gene transcripts leads to structural variation in mammalian genomes. [Ewing et al 2013, Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-3-r22).
+
+[RelocaTE](https://github.com/srobb1/RelocaTE): The use of RelocaTE and unassembled short reads to produce high-resolution snapshots of transposable element generated diversity in rice. [Robb et al 2013, G3](http://www.g3journal.org/content/3/6/949).
+
 [Tea](http://compbio.med.harvard.edu/Tea/): Landscape of somatic retrotransposition in human cancers. [Lee et al 2012, Science](http://science.sciencemag.org/content/337/6097/967).
+
+[ngs_te_mapper](https://github.com/bergmanlab/ngs_te_mapper): Whole Genome Resequencing Reveals Natural Target Site Preferences of Transposable Elements in Drosophila melanogaster. [Linheiro et al 2012, Plos ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0030008).
+
+[TE-Locate](http://sourceforge.net/projects/te-locate/): A Tool to Locate and Group Transposable Element Occurrences Using Paired-End Next-Generation Sequencing Data. [Platzer et al 2012, Biology](http://www.mdpi.com/2079-7737/1/2/395).
 
 ##### Tools for detecting short repeat expansions:
 
