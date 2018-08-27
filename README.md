@@ -1,6 +1,9 @@
 # Structural Variant Resources 
 ALL the things. Also mention other github/basecamp/stack overflow sites that this was inspired by (e.g. geocarvalho github on sv-cnv-studies)
 
+Tools include hyperlinks to both the original paper and software, in the following format:
+[SOFTWARE](software_link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paper_link).
+
 ## 1. Introduction to structural variation
 
 ### 1.1 Overviews
@@ -54,7 +57,7 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 #### Read depth (RD):
 
-[CNVnator](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[CNVnator](https://github.com/abyzovlab/CNVnator): An approach to discover, genotype, and characterize typical and atypical cnvs from family and population genome sequencing. [Abyzov et al 2011, Genome Research](https://genome.cshlp.org/content/21/6/974).
 
 [EXCAVATOR](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
@@ -90,10 +93,6 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 [RDXplorer](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
 #### Local re-assembly (LR):
 
 [Cortex](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
@@ -104,7 +103,7 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 [SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
 
 #### Combination methods:
 
