@@ -140,10 +140,7 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 ##### PR + SR + RD:
 
-[Genome STRiP](http://software.broadinstitute.org/software/genomestrip/): Discovery and genotyping of genome structural polymorphism by sequencing on a population scale. [Handsaker et al Nature Genetics, 2011](https://www.nature.com/articles/ng.768).
-
-[Genome STRiP v2.0](http://software.broadinstitute.org/software/genomestrip/genome-strip-20): A new CNV discovery and genotyping pipeline. Large multiallelic copy number variations in humans. [Handsaker et al Nature Genetics, 2015](https://www.nature.com/articles/ng.3200).
-
+[Genome STRiP (v2.0)](http://software.broadinstitute.org/software/genomestrip/genome-strip-20): A new CNV discovery and genotyping pipeline. Large multiallelic copy number variations in humans. [Handsaker et al Nature Genetics, 2015](https://www.nature.com/articles/ng.3200).
 
 #### Other:
 ##### Tools for detecting mobile element transpositions:
