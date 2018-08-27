@@ -159,15 +159,13 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 ##### Tools for detecting short repeat expansions:
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[STRetch](https://github.com/Oshlack/STRetch): Detecting and discovering pathogenic short tandem repeat expansions. [Dashnow et al 2018, Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1505-2).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[exSTRa](https://github.com/bahlolab/exSTRa): Detecting tandem repeat expansions in cohorts sequenced with short-read sequencing data. [Tankard et al 2018, BioRxiv](https://www.biorxiv.org/content/early/2018/07/25/157792).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[ExpansionHunter](link): Detection of long repeat expansions from PCR-free whole-genome sequence data. [Dolzhenko et al 	2017, Genome Research](https://genome.cshlp.org/content/27/11/1895).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[TREDPARSE](https://github.com/humanlongevity/tredparse): Profiling of Short-Tandem-Repeat Disease Alleles in 12,632 Human Whole Genomes. [Tang et al 2017, Am J Hum Genet](https://www.sciencedirect.com/science/article/pii/S0002929717303828?via%3Dihub).
 
 ##### Tools for building a graph reference genome:
 
