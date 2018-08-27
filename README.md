@@ -22,7 +22,7 @@ The functional impact of structural variation in humans.
 ### 2.1 Genome quality checks
 ### 2.2 Stuctural variant calling methods
 
-The following examples were collated from recent reviews, e.g.:
+The following tools were collated from recent reviews, e.g.:
 
 Recent advances in the detection of repeat expansions with short-read next-generation sequencing. [Bahlo et al 2018, F1000Research](https://f1000research.com/articles/7-736/v1).
 
