@@ -1,7 +1,7 @@
 # Structural Variant Resources 
 ALL the things. Also mention other github/basecamp/stack overflow sites that this was inspired by (e.g. geocarvalho github on sv-cnv-studies)
 
-Listed tools include hyperlinks to both the original paper and software/documentation.
+Listed tools include hyperlinks to both the original paper and software and are sorted by publication date (newest first). 
 
 ## 1. Introduction to structural variation
 
@@ -58,13 +58,13 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 [CNVnator](https://github.com/abyzovlab/CNVnator): An approach to discover, genotype, and characterize typical and atypical cnvs from family and population genome sequencing. [Abyzov et al 2011, Genome Research](https://genome.cshlp.org/content/21/6/974).
 
-[EXCAVATOR](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[EXCAVATOR](https://sourceforge.net/projects/excavatortool/): Detecting copy number variants from whole-exome sequencing data. [Magi et al 2013, Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-10-r120).
 
-[ExomeCNV](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[ExomeCNV](http://www2.uaem.mx/r-mirror/web/packages/ExomeCNV/index.html): Exome sequencing-based copy-number variation and loss of heterozygosity detection. [Sathirapongsasuti et al 2011, Bioinformatics](https://academic.oup.com/bioinformatics/article/27/19/2648/231564).
 
-[CoNIFER](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[CoNIFER](http://conifer.sourceforge.net/): Copy number variation detection and genotyping from exome sequence data. [Krumm et al 2012, Genome Research](https://genome.cshlp.org/content/22/8/1525).
 
-[CODEX](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[CODEX](https://github.com/yuchaojiang/CODEX2): A normalization and copy number variation detection method for whole exome sequencing. [Jiang et al 2015, Nucleic Acids Research](https://academic.oup.com/nar/article/43/6/e39/2453417).
 
 [XHMM](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
@@ -101,8 +101,6 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 [SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 [SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-
 
 #### Combination methods:
 
