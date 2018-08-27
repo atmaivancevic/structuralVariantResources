@@ -30,7 +30,7 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
-##### Split read (SR): 
+#### Split read (SR): 
 
 [Socrates](http://bioinf.wehi.edu.au/socrates/): Identification of genomic rearrangements in tumour genomes by re-aligning soft clipped reads. [Schroder et al 2014, Bioinformatics](https://academic.oup.com/bioinformatics/article/30/8/1064/257640).
 
