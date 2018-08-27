@@ -264,6 +264,6 @@ Recommended reading:
 
 - [Circos](http://circos.ca/): A software package for visualizing data and information in a circular layout. [Krzywinski et al 2009, Genome Research](https://genome.cshlp.org/content/early/2009/06/15/gr.092759.109.abstract).
 
-### 3.5 Crowd curation
+### 3.5 (Optional) Crowd curation
 
 - [SV-plaudit](https://github.com/jbelyeu/SV-plaudit): A cloud-assisted framework for manually curating thousands of structural variants. [Belyeu et al 2018, GigaScience](https://academic.oup.com/gigascience/article/7/7/giy064/5026174).
