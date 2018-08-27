@@ -122,45 +122,25 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 ##### RD + SR:
 
-[SVseq](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[SVseq](http://www.engr.uconn.edu/~jiz08001/): An approach for detecting exact breakpoints of deletions with low-coverage sequence data. [Zhang et al 2011, Bioinformatics](https://academic.oup.com/bioinformatics/article/27/23/3228/235808).
 
 ##### PR + LR:
 
-[HYDRA](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[HYDRA-SV](https://code.google.com/archive/p/hydra-sv/): Genome-wide mapping and assembly of structural variant breakpoints in the mouse genome. [Quinlan et al 2010, Genome Research](https://genome.cshlp.org/content/20/5/623).
 
-[NovelSeq](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[NovelSeq](http://novelseq.sourceforge.net/Home): Detection and characterization of novel sequence insertions using paired-end next-generation sequencing. [Hajirasouliha et al 2010, Bioinformatics](https://academic.oup.com/bioinformatics/article/26/10/1277/194099).
 
 ##### SR + LR:
 
-[CREST](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[CREST](https://www.stjuderesearch.org/site/lab/zhang): Maps somatic structural variation in cancer genomes with base-pair resolution. [Wang et al 2011, Nature Methods](https://www.nature.com/articles/nmeth.1628).
 
 ##### PR + SR + RD:
 
 [Genome STRiP (v2.0)](http://software.broadinstitute.org/software/genomestrip/): A new CNV discovery and genotyping pipeline. Large multiallelic copy number variations in humans. [Handsaker et al Nature Genetics, 2015](https://www.nature.com/articles/ng.3200).
 
-GRIDDS
+##### PR + SR + LR
+
+[GRIDSS](https://github.com/PapenfussLab/gridss): Sensitive and specific genomic rearrangement detection using positional de Bruijn graph assembly. [Cameron et al Genome Research, 2017](https://genome.cshlp.org/content/early/2017/11/02/gr.222109.117.abstract).
 
 #### Other:
 ##### Tools for detecting mobile element transpositions:
