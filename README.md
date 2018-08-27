@@ -5,12 +5,12 @@ ALL the things. Also mention other github/basecamp/stack overflow sites that thi
 
 ### 1.1 Overviews
 
-Copy Number Variations Detection: Unravelling the Problem in Tangible Aspects. [do Nascimento et al 2017](https://www.computer.org/csdl/trans/tb/2017/06/07484749-abs.html).
+Copy Number Variations Detection: Unravelling the Problem in Tangible Aspects. [do Nascimento et al 2017, IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://www.computer.org/csdl/trans/tb/2017/06/07484749-abs.html).
 
-A decade of structural variants: description, history and methods to detect structural variation. [Escaramís et al 2015](https://academic.oup.com/bfg/article/14/5/305/184088).
+A decade of structural variants: description, history and methods to detect structural variation. [Escaramís et al 2015, Brief Funct Genomics](https://academic.oup.com/bfg/article/14/5/305/184088).
 
 The functional impact of structural variation in humans. 
-[Hurles et al 2008](https://www.sciencedirect.com/science/article/pii/S0168952508000784?via%3Dihub). 
+[Hurles et al 2008, Trends Genet](https://www.sciencedirect.com/science/article/pii/S0168952508000784?via%3Dihub). 
 
 ### 1.2 SVs in disease
 
@@ -34,7 +34,7 @@ The functional impact of structural variation in humans.
 
 #### Paired read (PR):
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[DELLY](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 [SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
@@ -70,7 +70,30 @@ The functional impact of structural variation in humans.
 
 #### Combination methods:
 
-Many of the above use a combination of different signals. E.g. DELLY; GenomeStrip. 
+Some tools use a combination of different strategies to find SVs. Here are some examples collated from recent reviews, e.g.
+
+Detection of Genomic Structural Variants from Next-Generation Sequencing Data. [Tattini et al 2015, Front Bioeng Biotechnol](https://www.frontiersin.org/articles/10.3389/fbioe.2015.00092/full).
+
+PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+##### PR + SR:
+
+##### RD + PR:
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+##### RD + SR:
+
+##### PR + LR:
+
+##### SR + LR:
+
+##### PR + SR + RD:
+
+
+
 
 #### Other:
 ##### Tools for detecting mobile element transpositions:
