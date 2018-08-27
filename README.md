@@ -201,9 +201,24 @@ The following tools were collated from recent reviews, e.g.:
 ### 2.4 Standardizing output
 
 ## 3. Identifying medically relevant SVs
+
+Recommended reading:
+- American College of Medical Genetics standards and guidelines for interpretation and reporting of postnatal constitutional copy number variants. [Kearney et al 2011, Genet. Med.](https://www.nature.com/articles/gim92011110).
+
 ### 3.1 Population frequencies
+
+- [gnomAD](http://gnomad.broadinstitute.org/): Genome Aggregation Database, a coalition of investigators seeking to aggregate and harmonize exome and genome sequencing data from a variety of large-scale sequencing projects. [Lek et al 2016, Nature](https://www.nature.com/articles/nature19057).
+
+- [ExAC](http://exac.broadinstitute.org/): Exome Aggregation Consortium. [Lek et al 2016, Nature](https://www.nature.com/articles/nature19057).
+
+- [Genome of the Netherlands Project](http://www.nlgenome.nl/): A high-quality human reference panel reveals the complexity and distribution of genomic structural variants. [Hehir-Kwa et al 2016, Nat. Commun.](https://www.nature.com/articles/ncomms12989).
+
+- [1000 Genomes Project](http://www.internationalgenome.org/): A global reference for human genetic variation. [The 1000 Genomes Project Consortium et al 2015, Nature](https://www.nature.com/articles/nature15393).
+
 ### 3.2 Gene annotation
 ### 3.3 Impact prediction
+
+
 
 ### 3.4 Visualization
 
