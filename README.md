@@ -2,7 +2,7 @@
 ALL the things. Also mention other github/basecamp/stack overflow sites that this was inspired by (e.g. geocarvalho github on sv-cnv-studies)
 
 Tools include hyperlinks to both the original paper and software, in the following format:
-[SOFTWARE][software_link]: DESCRIPTION. [AUTHOR et al YEAR, JOURNAL][paper_link].
+SOFTWARE(software_link): DESCRIPTION. AUTHOR et al YEAR, JOURNAL(paper_link).
 
 ## 1. Introduction to structural variation
 
