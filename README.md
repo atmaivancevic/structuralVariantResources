@@ -23,6 +23,65 @@ The functional impact of structural variation in humans.
 ##### Split read (SR): 
 
 [SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+
+#### Paired read (PR):
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+
+#### Read depth (RD):
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+
+#### Local re-assembly (LR):
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+
+#### Combination methods:
+
+Many of the above use a combination of different signals. E.g. DELLY; GenomeStrip. 
+
+#### Other:
+##### Mobile element callers:
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+
+##### Short repeat expansions:
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+
+##### Graph reference genomes:
+
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, Genome Research](paperlink).
+
+
 
 
 ### 2.3 Filtering false calls
