@@ -147,15 +147,15 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 #### Other:
 ##### Tools for detecting mobile element transpositions:
 
-[RetroSeq](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[MELT](http://melt.igs.umaryland.edu/): Population-scale mobile element discovery and biology. [Gardner et al 2017, Genome Research](https://genome.cshlp.org/content/27/11/1916).
 
-[Tea](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[Mobster](https://sourceforge.net/projects/mobster/): Accurate detection of mobile element insertions in next generation sequencing data. [Thung et al 2014, Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0488-x).
 
-[Tangram](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[Tangram](https://github.com/jiantao/Tangram): A comprehensive toolbox for mobile element insertion detection. [Wu et al 2014, BMC Genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-795).
 
-[Mobster](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[RetroSeq](https://github.com/tk2/RetroSeq): Transposable element discovery from next-generation sequencing data. [Keane et al 2013, Bioinformatics](https://academic.oup.com/bioinformatics/article/29/3/389/257479).
 
-[MELT](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[Tea](http://compbio.med.harvard.edu/Tea/): Landscape of somatic retrotransposition in human cancers. [Lee et al 2012, Science](http://science.sciencemag.org/content/337/6097/967).
 
 ##### Tools for detecting short repeat expansions:
 
