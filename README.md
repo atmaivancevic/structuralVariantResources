@@ -98,17 +98,17 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 ##### PR + SR:
 
+[LUMPY](https://github.com/arq5x/lumpy-sv): A probabilistic framework for structural variant discovery. [Layer et al 2014, Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-6-r84).
+
 [SoftSearch](https://omictools.com/softsearch-tool?t=tab-tool-variant-0): Integration of Multiple Sequence Features to Identify Breakpoints of Structural Variations. [Hart et al 2013, PLoS ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0083356).
 
 [MATE-CLEVER](https://bitbucket.org/tobiasmarschall/clever-toolkit): Mendelian-inheritance-aware discovery and genotyping of midsize and long indels. [Marschall et al 2013, Bioinformatics](https://academic.oup.com/bioinformatics/article/29/24/3143/194997).
 
-[PRISM](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[DELLY](https://github.com/dellytools/delly): Structural variant discovery by integrated paired-end and split-read analysis. [Rausch et al 2012, Bioinformatics](https://academic.oup.com/bioinformatics/article/28/18/i333/245403).
 
-[DELLY](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[PRISM](http://compbio.cs.toronto.edu/prism/): Pair-read informed split-read mapping for base-pair level detection of insertion, deletion and structural variants. [Jiang et al 2012, Bioinformatics](https://academic.oup.com/bioinformatics/article/28/20/2576/202193).
 
-[LUMPY](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[Pindel](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[Pindel](https://github.com/genome/pindel): A pattern growth approach to detect break points of large deletions and medium sized insertions from paired-end short reads. [Ye et al 2009, Bioinformatics](https://academic.oup.com/bioinformatics/article/25/21/2865/2112044).
 
 ##### RD + PR:
 
