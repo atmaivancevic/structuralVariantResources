@@ -203,7 +203,7 @@ The following tools were collated from recent reviews, e.g.:
 ## 3. Identifying medically relevant SVs
 
 Recommended reading:
-- American College of Medical Genetics standards and guidelines for interpretation and reporting of postnatal constitutional copy number variants. [Kearney et al 2011, Genet. Med.](https://www.nature.com/articles/gim92011110).
+- American College of Medical Genetics standards and guidelines for interpretation and reporting of postnatal constitutional copy number variants. [Kearney et al 2011, Genet Med](https://www.nature.com/articles/gim92011110).
 
 ### 3.1 Population frequencies
 
@@ -211,11 +211,24 @@ Recommended reading:
 
 - [ExAC](http://exac.broadinstitute.org/): Exome Aggregation Consortium. [Lek et al 2016, Nature](https://www.nature.com/articles/nature19057).
 
-- [Genome of the Netherlands Project](http://www.nlgenome.nl/): A high-quality human reference panel reveals the complexity and distribution of genomic structural variants. [Hehir-Kwa et al 2016, Nat. Commun.](https://www.nature.com/articles/ncomms12989).
+- [Genome of the Netherlands Project](http://www.nlgenome.nl/): A high-quality human reference panel reveals the complexity and distribution of genomic structural variants. [Hehir-Kwa et al 2016, Nat Commun](https://www.nature.com/articles/ncomms12989).
 
 - [1000 Genomes Project](http://www.internationalgenome.org/): A global reference for human genetic variation. [The 1000 Genomes Project Consortium et al 2015, Nature](https://www.nature.com/articles/nature15393).
 
 ### 3.2 Gene annotation
+
+- [GenePANDA (broken link?)](http://genepanda.tianlab.cn): A novel network-based gene prioritizing tool for complex diseases. [Yin et al 2017, Sci Rep](https://www.nature.com/articles/srep43258).
+
+- [Vcfanno](https://github.com/brentp/vcfanno): Fast, flexible annotation of genetic variants. [Pedersen et al 2016, Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0973-5).
+
+- [BEDTools](https://bedtools.readthedocs.io/en/latest/): The Swiss-Army Tool for Genome Feature Analysis. [Quinlan et al 2014, Bioinformatics](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/0471250953.bi1112s47).
+
+- [ENCODE](https://www.encodeproject.org/): An integrated encyclopedia of DNA elements in the human genome. [ENCODE Project Consortium 2012, Nature](https://www.nature.com/articles/nature11247).
+
+- [GLAD4U](http://glad4u.zhang-lab.org/index.php): Deriving and prioritizing gene lists from PubMed literature. [Jourquin et al 2012, BMC Genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-13-S8-S20).
+
+- [UCSC Genome Browser](https://genome.ucsc.edu/): The Human Genome Browser at UCSC, gene tracks available. [Kent et al 2002, Genome Research](https://genome.cshlp.org/content/12/6/996).
+
 ### 3.3 Impact prediction
 
 
