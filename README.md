@@ -20,6 +20,14 @@ The functional impact of structural variation in humans.
 ### 2.1 Genome quality checks
 ### 2.2 Stuctural variant calling methods
 
+The following examples were collated from recent reviews, e.g.:
+
+Detection of Genomic Structural Variants from Next-Generation Sequencing Data. [Tattini et al 2015, Front Bioeng Biotechnol](https://www.frontiersin.org/articles/10.3389/fbioe.2015.00092/full).
+
+PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
 ##### Split read (SR): 
 
 [Socrates](http://bioinf.wehi.edu.au/socrates/): Identification of genomic rearrangements in tumour genomes by re-aligning soft clipped reads. [Schroder et al 2014, Bioinformatics](https://academic.oup.com/bioinformatics/article/30/8/1064/257640).
@@ -28,17 +36,23 @@ The functional impact of structural variation in humans.
 
 [MultiBreak-SV](https://github.com/raphael-group/multibreak-sv): Characterization of structural variants with single molecule and hybrid sequencing approaches. [Ritz et al 2014, Bioinformatics](https://academic.oup.com/bioinformatics/article/30/24/3458/2422243).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[Gustaf](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[Splitread](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 #### Paired read (PR):
 
 [DELLY](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[CLEVER](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[BreakDancer](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[VariationHunter](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[PEMer](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[MoDIL](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 [SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
@@ -46,11 +60,41 @@ The functional impact of structural variation in humans.
 
 #### Read depth (RD):
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[CNVnator](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[EXCAVATOR](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[ExomeCNV](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[CoNIFER](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[CODEX](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[XHMM](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[ONCOCNV](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[SegSeq](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[CNAnorm](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[CNAseg](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[rSW-seq](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[cn.MOPS](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[JointSLM](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[ReadDepth](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[BIC-seq](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[PSCC](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[CNV-seq](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[RDXplorer](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 [SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
@@ -58,9 +102,9 @@ The functional impact of structural variation in humans.
 
 #### Local re-assembly (LR):
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[Cortex](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[TIGRA](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 [SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
@@ -70,41 +114,33 @@ The functional impact of structural variation in humans.
 
 #### Combination methods:
 
-Some tools use a combination of different strategies to find SVs. Here are some examples collated from recent reviews, e.g.:
-
-Detection of Genomic Structural Variants from Next-Generation Sequencing Data. [Tattini et al 2015, Front Bioeng Biotechnol](https://www.frontiersin.org/articles/10.3389/fbioe.2015.00092/full).
-
-PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
 ##### PR + SR:
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[SoftSearch](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[MATE-CLEVER](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[PRISM](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[DELLY](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[LUMPY](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+
+[Pindel](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 ##### RD + PR:
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[inGAP-sv](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[CNVer](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[GASVpro](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
-
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[SVDetect](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 ##### RD + SR:
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[SVseq](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 [SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
@@ -116,9 +152,9 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 ##### PR + LR:
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[HYDRA](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[NovelSeq](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 [SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
@@ -128,7 +164,7 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 ##### SR + LR:
 
-[SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
+[CREST](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 [SOFTWARE](link): DESCRIPTION. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
@@ -140,7 +176,9 @@ PAPERTITLE. [AUTHOR et al YEAR, JOURNAL](paperlink).
 
 ##### PR + SR + RD:
 
-[Genome STRiP (v2.0)](http://software.broadinstitute.org/software/genomestrip/genome-strip-20): A new CNV discovery and genotyping pipeline. Large multiallelic copy number variations in humans. [Handsaker et al Nature Genetics, 2015](https://www.nature.com/articles/ng.3200).
+[Genome STRiP (v2.0)](http://software.broadinstitute.org/software/genomestrip/): A new CNV discovery and genotyping pipeline. Large multiallelic copy number variations in humans. [Handsaker et al Nature Genetics, 2015](https://www.nature.com/articles/ng.3200).
+
+GRIDDS
 
 #### Other:
 ##### Tools for detecting mobile element transpositions:
