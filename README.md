@@ -21,6 +21,17 @@ The functional impact of structural variation in humans.
 
 ## 2. Detecting SVs in whole genome data
 ### 2.1 Genome quality checks
+
+Recommended reading:
+
+- How complete are ‘complete’ genome assemblies? An avian perspective. [Peona et al 2018, Mol. Ecol. Resour](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.12933).
+
+- The Oxford Nanopore MinION: delivery of nanopore sequencing to the genomics community. [Jain et al 2016, Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1103-0).
+
+- Resolving the complexity of the human genome using single-molecule sequencing. [Chaisson et al 2015, Nature](https://www.nature.com/articles/nature13907).
+
+- Performance comparison of whole-genome sequencing platforms. [Lam et al 2011, Nature Biotech](https://www.nature.com/articles/nbt.2065).
+
 ### 2.2 Stuctural variant calling methods
 
 The following tools were collated from recent reviews, e.g.:
