@@ -179,11 +179,11 @@ The following tools were collated from recent reviews, e.g.:
 
 ### 2.3 Filtering false calls
 
-##### Benchmarking: 
+#### Benchmarking: 
 
 - [Genome in a Bottle](http://jimb.stanford.edu/giab/): A human genome standard. [2015, Nature Biotech](https://www.nature.com/articles/nbt0715-675a).
 
-##### General purpose genomic tools:
+#### General purpose genomic tools:
 
 - [BCFtools/csq](https://samtools.github.io/bcftools/bcftools.html): Haplotype-aware variant consequences. [Danecek et al 2017, Bioinformatics](https://academic.oup.com/bioinformatics/article/33/13/2037/3000373).  
 - [BEDTools](https://bedtools.readthedocs.io/en/latest/): The Swiss-Army Tool for Genome Feature Analysis. [Quinlan 2014, Curr. Protoc. Bioinformatics](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/0471250953.bi1112s47).  
