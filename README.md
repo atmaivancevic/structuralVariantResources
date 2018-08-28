@@ -18,8 +18,7 @@ Tools include both the software/GitHub link and the original paper, as follows:
 
 ## 1. Introduction to structural variation
 
-- A decade of structural variants: description, history and methods to detect structural variation. [Escaramís et al 2015, Brief Funct Genomics](https://academic.oup.com/bfg/article/14/5/305/184088).
-
+- A decade of structural variants: description, history and methods to detect structural variation. [Escaramís et al 2015, Brief Funct Genomics](https://academic.oup.com/bfg/article/14/5/305/184088).  
 - The functional impact of structural variation in humans. 
 [Hurles et al 2008, Trends Genet](https://www.sciencedirect.com/science/article/pii/S0168952508000784?via%3Dihub). 
 
