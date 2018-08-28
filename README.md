@@ -1,6 +1,6 @@
 # Structural Variant Resources 
 
-Things to help with structural variant analysis.  
+An attempt to keep up with the structural variant field. 
 
 For each category, papers are sorted by year of publication and provided in the following format:  
 *Title. Author Year, Journal (link_to_paper).*
