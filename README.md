@@ -10,7 +10,17 @@ Tools include both the software/GitHub link and the original paper, as follows:
 
 *Software (link_to_software): Description. Author Year, Journal (link_to_paper).*
 
+Table of Contents:
+
+
+
+
+
 ## 1. Introduction to structural variation
+
+
+Introduction
+============
 
 - A decade of structural variants: description, history and methods to detect structural variation. [Escaramís et al 2015, Brief Funct Genomics](https://academic.oup.com/bfg/article/14/5/305/184088).
 
