@@ -28,9 +28,9 @@ Tools include both the software/GitHub link and the original paper, as follows:
     - [PR + SR + RD](#pr--sr--rd)  
     - [PR + SR + LR](#pr--sr--lr)  
   - [2.2.6 Other](#other)  
-    - [Tools for detecting mobile element transpositions]()  
-    - [Tools for detecting short repeat expansions]()  
-    - [Tools for building graph reference genomes]()  
+    - [Mobile elements](#mobile-elements)  
+    - [Repeat expansions](#repeat-expansions)  
+    - [Graph reference genomes](#graph-reference-genomes)  
 - [2.3 Filtering false calls]()   
   - [2.3.1 Validated SVs for benchmarking]()  
   - [2.3.2 General purpose genomic tools]()  
@@ -145,7 +145,7 @@ The following tools were collated from recent reviews, e.g.:
 - [GRIDSS](https://github.com/PapenfussLab/gridss): Sensitive and specific genomic rearrangement detection using positional de Bruijn graph assembly. [Cameron et al Genome Research, 2017](https://genome.cshlp.org/content/early/2017/11/02/gr.222109.117.abstract).
 
 #### Other:
-##### Tools for detecting mobile element transpositions:
+##### Mobile elements:
 
 - [MELT](http://melt.igs.umaryland.edu/): Population-scale mobile element discovery and biology. [Gardner et al 2017, Genome Research](https://genome.cshlp.org/content/27/11/1916).  
 - [T-lex/T-lex2](http://petrov.stanford.edu/cgi-bin/Tlex.html): Genotyping, frequency estimation and re-annotation of transposable elements using single or pooled next-generation sequencing data. [Fiston-Lavier et al 2015, Nucleic Acids Res.](https://academic.oup.com/nar/article/43/4/e22/2410985).  
@@ -165,14 +165,14 @@ The following tools were collated from recent reviews, e.g.:
 - [ngs_te_mapper](https://github.com/bergmanlab/ngs_te_mapper): Whole Genome Resequencing Reveals Natural Target Site Preferences of Transposable Elements in Drosophila melanogaster. [Linheiro et al 2012, Plos ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0030008).  
 - [TE-Locate](http://sourceforge.net/projects/te-locate/): A Tool to Locate and Group Transposable Element Occurrences Using Paired-End Next-Generation Sequencing Data. [Platzer et al 2012, Biology](http://www.mdpi.com/2079-7737/1/2/395).
 
-##### Tools for detecting short repeat expansions:
+##### Repeat expansions:
 
 - [STRetch](https://github.com/Oshlack/STRetch): Detecting and discovering pathogenic short tandem repeat expansions. [Dashnow et al 2018, Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1505-2).  
 - [exSTRa](https://github.com/bahlolab/exSTRa): Detecting tandem repeat expansions in cohorts sequenced with short-read sequencing data. [Tankard et al 2018, BioRxiv](https://www.biorxiv.org/content/early/2018/07/25/157792).  
 - [ExpansionHunter](link): Detection of long repeat expansions from PCR-free whole-genome sequence data. [Dolzhenko et al 	2017, Genome Research](https://genome.cshlp.org/content/27/11/1895).  
 - [TREDPARSE](https://github.com/humanlongevity/tredparse): Profiling of Short-Tandem-Repeat Disease Alleles in 12,632 Human Whole Genomes. [Tang et al 2017, Am J Hum Genet](https://www.sciencedirect.com/science/article/pii/S0002929717303828?via%3Dihub).
 
-##### Tools for building graph reference genomes:
+##### Graph reference genomes:
 
 - [Variation Graph](https://github.com/vgteam/vg): Sequence variation aware genome references and read mapping with the variation graph toolkit. [Garrison et al 2017, BioRxiv](https://www.biorxiv.org/content/early/2017/12/15/234856).  
 - [Graph Genome Suite (Commercial)](https://www.sevenbridges.com/graph/): Fast and Accurate Genomic Analyses using Genome Graphs. [Rakocevic et al 2017, BioRxiv](https://www.biorxiv.org/content/early/2018/03/20/194530).
