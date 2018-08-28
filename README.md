@@ -35,6 +35,7 @@ Tools include both the software/GitHub link and the original paper, as follows:
   - [2.3.1 Validated SVs for benchmarking]()  
   - [2.3.2 General purpose genomic tools]()  
 - [2.4 Standardizing output]()  
+
 [3. Identifying medically relevant SVs](#3-identifying-medically-relevant-svs)  
 - [3.1 Population frequencies]()  
 - [3.2 Gene annotation]()  
