@@ -209,7 +209,7 @@ The following tools were collated from recent reviews, e.g.:
 
 ### 3.2 Gene annotation
 
-- [GenePANDA (broken link?)](http://genepanda.tianlab.cn): A novel network-based gene prioritizing tool for complex diseases. [Yin et al 2017, Sci Rep](https://www.nature.com/articles/srep43258).  
+- [GenePANDA](http://genepanda.tianlab.cn): A novel network-based gene prioritizing tool for complex diseases. [Yin et al 2017, Sci Rep](https://www.nature.com/articles/srep43258). **Note: software link (from paper) appears to be broken!** 
 - [Vcfanno](https://github.com/brentp/vcfanno): Fast, flexible annotation of genetic variants. [Pedersen et al 2016, Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0973-5).  
 - [ENCODE](https://www.encodeproject.org/): An integrated encyclopedia of DNA elements in the human genome. [ENCODE Project Consortium 2012, Nature](https://www.nature.com/articles/nature11247).  
 - [GLAD4U](http://glad4u.zhang-lab.org/index.php): Deriving and prioritizing gene lists from PubMed literature. [Jourquin et al 2012, BMC Genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-13-S8-S20).  
