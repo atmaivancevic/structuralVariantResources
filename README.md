@@ -206,6 +206,19 @@ The following tools were collated from recent reviews, e.g.:
 - [Graph Genome Suite (Commercial)](https://www.sevenbridges.com/graph/): Fast and Accurate Genomic Analyses using Genome Graphs. [Rakocevic et al 2017, BioRxiv](https://www.biorxiv.org/content/early/2018/03/20/194530).
 
 ### 2.3 Filtering false calls
+
+#### Validated SVs for benchmarking: 
+
+- [Genome in a Bottle](http://jimb.stanford.edu/giab/): A human genome standard. [2015, Nature Biotech](https://www.nature.com/articles/nbt0715-675a).
+
+#### General purpose genomic tools:
+
+- [BCFtools/csq](https://samtools.github.io/bcftools/bcftools.html): Haplotype-aware variant consequences. [Danecek et al 2017, Bioinformatics](https://academic.oup.com/bioinformatics/article/33/13/2037/3000373).
+
+- [BEDTools](https://bedtools.readthedocs.io/en/latest/): The Swiss-Army Tool for Genome Feature Analysis. [Quinlan 2014, Curr. Protoc. Bioinformatics](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/0471250953.bi1112s47).
+
+- [GenomicRanges](https://bioconductor.org/packages/release/bioc/html/GenomicRanges.html): Software for computing and annotating genomic ranges. [Lawrence et al 2013, PLoS Comput Biol](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003118).
+
 ### 2.4 Standardizing output
 
 ## 3. Identifying medically relevant SVs
@@ -228,8 +241,6 @@ Recommended reading:
 - [GenePANDA (broken link?)](http://genepanda.tianlab.cn): A novel network-based gene prioritizing tool for complex diseases. [Yin et al 2017, Sci Rep](https://www.nature.com/articles/srep43258).
 
 - [Vcfanno](https://github.com/brentp/vcfanno): Fast, flexible annotation of genetic variants. [Pedersen et al 2016, Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0973-5).
-
-- [BEDTools](https://bedtools.readthedocs.io/en/latest/): The Swiss-Army Tool for Genome Feature Analysis. [Quinlan et al 2014, Bioinformatics](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/0471250953.bi1112s47).
 
 - [ENCODE](https://www.encodeproject.org/): An integrated encyclopedia of DNA elements in the human genome. [ENCODE Project Consortium 2012, Nature](https://www.nature.com/articles/nature11247).
 
