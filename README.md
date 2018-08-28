@@ -1,6 +1,6 @@
 # Structural Variant Resources 
 
-A collated list of useful tools and papers for structural variant analysis from whole genome sequencing data. 
+A collated list of useful tools and papers for structural variant analysis.
 
 Papers are sorted by year of publication and provided in the following format:
 
