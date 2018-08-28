@@ -18,7 +18,7 @@ Tools include both the software/GitHub link and the original paper, as follows:
   - [2.2.1 Split read (SR)](#split-read-sr)  
   - [2.2.2 Paired read (PR)](#paired-read-pr)  
   - [2.2.3 Read depth (RD)](#read-depth-pr)  
-  - [2.2.4 Local re-assembly (LR)](#local-reassembly-lr)  
+  - [2.2.4 Local re-assembly (LR)](#local-re-assembly-lr)  
   - [2.2.5 Combination methods](#combination-methods)  
     - [PR + SR]()  
     - [RD + PR]()  
