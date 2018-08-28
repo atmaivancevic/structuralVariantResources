@@ -32,7 +32,7 @@ Tools include both the software/GitHub link and the original paper, as follows:
     - [Repeat expansions](#repeat-expansions)  
     - [Graph reference genomes](#graph-reference-genomes)  
 - [2.3 Filtering false calls](#23-filtering-false-calls)   
-  - [2.3.1 Validated SVs for benchmarking](#benchmarking)  
+  - [2.3.1 Benchmarking](#benchmarking)  
   - [2.3.2 General purpose genomic tools](#general-purpose-genomic-tools)  
 - [2.4 Standardizing output](#24-standardizing-output)  
 
