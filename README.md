@@ -25,34 +25,24 @@ Tools include both the software/GitHub link and the original paper, as follows:
 ## 2. Detecting SVs in whole genome data
 ### 2.1 Genome quality checks
 
-- How complete are ‘complete’ genome assemblies? An avian perspective. [Peona et al 2018, Mol. Ecol. Resour](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.12933).
-
-- The Oxford Nanopore MinION: delivery of nanopore sequencing to the genomics community. [Jain et al 2016, Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1103-0).
-
-- Resolving the complexity of the human genome using single-molecule sequencing. [Chaisson et al 2015, Nature](https://www.nature.com/articles/nature13907).
-
+- How complete are ‘complete’ genome assemblies? An avian perspective. [Peona et al 2018, Mol. Ecol. Resour](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.12933).  
+- The Oxford Nanopore MinION: delivery of nanopore sequencing to the genomics community. [Jain et al 2016, Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1103-0).  
+- Resolving the complexity of the human genome using single-molecule sequencing. [Chaisson et al 2015, Nature](https://www.nature.com/articles/nature13907).  
 - Performance comparison of whole-genome sequencing platforms. [Lam et al 2011, Nature Biotech](https://www.nature.com/articles/nbt.2065).
 
 ### 2.2 Stuctural variant calling methods
 
-The following tools were collated from recent reviews, e.g.:
-
-- Recent advances in the detection of repeat expansions with short-read next-generation sequencing. [Bahlo et al 2018, F1000Research](https://f1000research.com/articles/7-736/v1).
-
-- Detection of Genomic Structural Variants from Next-Generation Sequencing Data. [Tattini et al 2015, Front Bioeng Biotechnol](https://www.frontiersin.org/articles/10.3389/fbioe.2015.00092/full).
-
+The following tools were collated from recent reviews, e.g.:  
+- Recent advances in the detection of repeat expansions with short-read next-generation sequencing. [Bahlo et al 2018, F1000Research](https://f1000research.com/articles/7-736/v1).  
+- Detection of Genomic Structural Variants from Next-Generation Sequencing Data. [Tattini et al 2015, Front Bioeng Biotechnol](https://www.frontiersin.org/articles/10.3389/fbioe.2015.00092/full).  
 - Transposable element detection from whole genome sequence data. [Ewing et al 2015, Mobile DNA](https://mobilednajournal.biomedcentral.com/articles/10.1186/s13100-015-0055-3).
 
 #### Split read (SR): 
 
-- [Socrates](http://bioinf.wehi.edu.au/socrates/): Identification of genomic rearrangements in tumour genomes by re-aligning soft clipped reads. [Schroder et al 2014, Bioinformatics](https://academic.oup.com/bioinformatics/article/30/8/1064/257640).
-
-- [MultiBreak-SV](https://github.com/raphael-group/multibreak-sv): Characterization of structural variants with single molecule and hybrid sequencing approaches. [Ritz et al 2014, Bioinformatics](https://academic.oup.com/bioinformatics/article/30/24/3458/2422243).
-
-- [Gustaf](https://github.com/seqan/seqan/tree/master/apps/gustaf): Detecting and correctly classifying SVs in the NGS twilight zone. [Trappe et al 2014, Bioinformatics](https://academic.oup.com/bioinformatics/article/30/24/3484/2422148).
-
-- [SVseq2](http://www.engr.uconn.edu/~jiz08001/): An improved approach for accurate and efficient calling of structural variations with low-coverage sequence data. [Zhang et al 2012, BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S6).
-
+- [Socrates](http://bioinf.wehi.edu.au/socrates/): Identification of genomic rearrangements in tumour genomes by re-aligning soft clipped reads. [Schroder et al 2014, Bioinformatics](https://academic.oup.com/bioinformatics/article/30/8/1064/257640).  
+- [MultiBreak-SV](https://github.com/raphael-group/multibreak-sv): Characterization of structural variants with single molecule and hybrid sequencing approaches. [Ritz et al 2014, Bioinformatics](https://academic.oup.com/bioinformatics/article/30/24/3458/2422243).  
+- [Gustaf](https://github.com/seqan/seqan/tree/master/apps/gustaf): Detecting and correctly classifying SVs in the NGS twilight zone. [Trappe et al 2014, Bioinformatics](https://academic.oup.com/bioinformatics/article/30/24/3484/2422148).  
+- [SVseq2](http://www.engr.uconn.edu/~jiz08001/): An improved approach for accurate and efficient calling of structural variations with low-coverage sequence data. [Zhang et al 2012, BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S6).  
 - [Splitread](http://splitread.sourceforge.net/): Detection of structural variants and indels within exome data. [Karakoc et al 2012, Nature Methods](https://www.nature.com/articles/nmeth.1810).
 
 #### Paired read (PR):
