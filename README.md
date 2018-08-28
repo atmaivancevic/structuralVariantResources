@@ -31,17 +31,17 @@ Tools include both the software/GitHub link and the original paper, as follows:
     - [Mobile elements](#mobile-elements)  
     - [Repeat expansions](#repeat-expansions)  
     - [Graph reference genomes](#graph-reference-genomes)  
-- [2.3 Filtering false calls]()   
-  - [2.3.1 Validated SVs for benchmarking]()  
-  - [2.3.2 General purpose genomic tools]()  
-- [2.4 Standardizing output]()  
+- [2.3 Filtering false calls](#23-filtering-false-calls)   
+  - [2.3.1 Validated SVs for benchmarking](#benchmarking)  
+  - [2.3.2 General purpose genomic tools](#general-purpose-genomic-tools)  
+- [2.4 Standardizing output](#24-standardizing-output)  
 
 [3. Identifying medically relevant SVs](#3-identifying-medically-relevant-svs)  
-- [3.1 Population frequencies]()  
-- [3.2 Gene annotation]()  
-- [3.3 Impact prediction]()   
-- [3.4 Visualization]()  
-- [3.5 Crowd curation]()  
+- [3.1 Population frequencies](#31-population-frequencies)  
+- [3.2 Gene annotation](#32-gene-annotation)  
+- [3.3 Impact prediction](#33-impact-prediction)   
+- [3.4 Visualization](#34-visualization)  
+- [3.5 Crowd curation](#35-crowd-curation)  
 
 ## 1. Introduction to structural variation
 
@@ -179,7 +179,7 @@ The following tools were collated from recent reviews, e.g.:
 
 ### 2.3 Filtering false calls
 
-##### Validated SVs for benchmarking: 
+##### Benchmarking: 
 
 - [Genome in a Bottle](http://jimb.stanford.edu/giab/): A human genome standard. [2015, Nature Biotech](https://www.nature.com/articles/nbt0715-675a).
 
