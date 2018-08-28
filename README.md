@@ -15,7 +15,6 @@ Tools include both the software/GitHub link and the original paper, as follows:
 ##### Table of Contents  
 [Headers](#headers)  
 [Emphasis](#emphasis)   
-<a name="headers"/>
 
 ## Headers
 
