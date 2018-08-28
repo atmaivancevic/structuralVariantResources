@@ -15,7 +15,7 @@ Tools include both the software/GitHub link and the original paper, as follows:
 [2. Detecting SVs in whole genome data](#2-detecting-svs-in-whole-genome-data)
 - [2.1 Genome quality checks](#21-genome-quality-checks)  
 - [2.2 Stuctural variant calling methods](#22-stuctural-variant-calling-methods)   
-  - [2.2.1 Split read (SR)]()  
+  - [2.2.1 Split read (SR)](#split-read-(SR):)  
   - [2.2.2 Paired read (PR)]()  
   - [2.2.3 Read depth (RD)]()  
   - [2.2.4 Local re-assembly (LR)]()  
