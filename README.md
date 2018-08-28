@@ -13,7 +13,7 @@ Tools include both the software/GitHub link and the original paper, as follows:
 
 
 ##### Table of Contents  
-[Headers](#1-introduction-to-structural-variation)  
+[1. Introduction to structural variation](#1-introduction-to-structural-variation)  
 [Emphasis](#emphasis)   
 
 ## Headers
