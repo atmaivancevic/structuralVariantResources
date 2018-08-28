@@ -18,10 +18,6 @@ Table of Contents:
 
 ## 1. Introduction to structural variation
 
-
-Introduction
-============
-
 - A decade of structural variants: description, history and methods to detect structural variation. [Escaramís et al 2015, Brief Funct Genomics](https://academic.oup.com/bfg/article/14/5/305/184088).
 
 - The functional impact of structural variation in humans. 
