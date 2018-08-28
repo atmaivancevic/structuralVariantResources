@@ -1,6 +1,6 @@
 # Structural Variant Resources 
 
-A collated list of useful tools and papers for structural variant analysis.  
+Things to help with structural variant analysis.  
 
 For each category, papers are sorted by year of publication and provided in the following format:  
 *Title. Author Year, Journal (link_to_paper).*
