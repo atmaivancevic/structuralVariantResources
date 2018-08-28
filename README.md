@@ -221,6 +221,10 @@ The following tools were collated from recent reviews, e.g.:
 
 ### 2.4 Standardizing output
 
+- [FusorSV](https://github.com/TheJacksonLaboratory/SVE): An algorithm for optimally combining data from multiple structural variation detection methods. [Becker et al 2018, Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1404-6).
+
+- [MetaSV](http://bioinform.github.io/metasv/): An accurate and integrative structural-variant caller for next generation sequencing. [Mohiyuddin et al 2015, Bioinformatics](https://academic.oup.com/bioinformatics/article/31/16/2741/321286).
+
 ## 3. Identifying medically relevant SVs
 
 Recommended reading:
