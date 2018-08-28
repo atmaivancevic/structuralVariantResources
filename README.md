@@ -35,11 +35,11 @@ Tools include both the software/GitHub link and the original paper, as follows:
 ...... [General purpose genomic tools]()  
 ... [2.4 Standardizing output]()  
 [3. Identifying medically relevant SVs](#3-identifying-medically-relevant-svs)  
-... [Population frequencies]()  
-... [Gene annotation]()  
-... [Impact prediction]()   
-... [Visualization]()  
-... [Crowd curation]()  
+... [3.1 Population frequencies]()  
+... [3.2 Gene annotation]()  
+... [3.3 Impact prediction]()   
+... [3.4 Visualization]()  
+... [3.5 Crowd curation]()  
 
 ## 1. Introduction to structural variation
 
