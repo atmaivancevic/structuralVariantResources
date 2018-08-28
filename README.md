@@ -20,7 +20,7 @@ Tools include both the software/GitHub link and the original paper, as follows:
   - [2.2.3 Read depth (RD)]()  
   - [2.2.4 Local re-assembly (LR)]()  
   - [2.2.5 Combination methods]()  
-......... [PR + SR]()  
+    - [PR + SR]()  
 ......... [RD + PR]()  
 ......... [RD + SR]()  
 ......... [PR + LR]()  
