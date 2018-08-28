@@ -12,7 +12,7 @@ Tools include both the software/GitHub link and the original paper, as follows:
 
 [1. Introduction to structural variation](#1-introduction-to-structural-variation)  
 [2. Detecting SVs in whole genome data](#2-detecting-svs-in-whole-genome-data)  
-... [2.1 Genome quality checks](#21-genome-quality-checks)
+... [2.1 Genome quality checks](#21-genome-quality-checks)  
 ... [2.2 Stuctural variant calling methods](#22-stuctural-variant-calling-methods)   
 [3. Identifying medically relevant SVs](#3-identifying-medically-relevant-svs) 
 
