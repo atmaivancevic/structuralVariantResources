@@ -10,8 +10,10 @@ Tools include both the software/GitHub link and the original paper, as follows:
 
 *Software (link_to_software): Description. Author Year, Journal (link_to_paper).*
 
-Table of Contents:
+## Table of Contents  
 
+[1. Introduction to structural variation](## 1. Introduction to structural variation)  
+[2. Detecting SVs in whole genome data](## 2. Detecting SVs in whole genome data) 
 
 
 
