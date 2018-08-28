@@ -14,8 +14,32 @@ Tools include both the software/GitHub link and the original paper, as follows:
 [2. Detecting SVs in whole genome data](#2-detecting-svs-in-whole-genome-data)  
 ... [2.1 Genome quality checks](#21-genome-quality-checks)  
 ... [2.2 Stuctural variant calling methods](#22-stuctural-variant-calling-methods)   
+...... [Split read (SR)]()
+...... [Paired read (PR)]()
+...... [Read depth (RD)]()
+...... [Local re-assembly (LR)]()
+...... [Combination methods]()
+......... [PR + SR]()
+......... [RD + PR]()
+......... [RD + SR]()
+......... [PR + LR]()
+......... [SR + LR]()
+......... [PR + SR + RD]()
+......... [PR + SR + LR]()
+...... [Other]()
+......... [Tools for detecting mobile element transpositions]()
+......... [Tools for detecting short repeat expansions]()
+......... [Tools for building graph reference genomes]()
+... [2.3 Filtering false calls]() 
+...... [Validated SVs for benchmarking]()
+...... [General purpose genomic tools]()
+... [2.4 Standardizing output]()  
 [3. Identifying medically relevant SVs](#3-identifying-medically-relevant-svs) 
-
+... [Population frequencies]()  
+... [Gene annotation]() 
+... [Impact prediction]() 
+... [Visualization]() 
+... [Crowd curation]() 
 
 ## 1. Introduction to structural variation
 
@@ -146,7 +170,7 @@ The following tools were collated from recent reviews, e.g.:
 - [ExpansionHunter](link): Detection of long repeat expansions from PCR-free whole-genome sequence data. [Dolzhenko et al 	2017, Genome Research](https://genome.cshlp.org/content/27/11/1895).  
 - [TREDPARSE](https://github.com/humanlongevity/tredparse): Profiling of Short-Tandem-Repeat Disease Alleles in 12,632 Human Whole Genomes. [Tang et al 2017, Am J Hum Genet](https://www.sciencedirect.com/science/article/pii/S0002929717303828?via%3Dihub).
 
-##### Tools for building a graph reference genome:
+##### Tools for building graph reference genomes:
 
 - [Variation Graph](https://github.com/vgteam/vg): Sequence variation aware genome references and read mapping with the variation graph toolkit. [Garrison et al 2017, BioRxiv](https://www.biorxiv.org/content/early/2017/12/15/234856).  
 - [Graph Genome Suite (Commercial)](https://www.sevenbridges.com/graph/): Fast and Accurate Genomic Analyses using Genome Graphs. [Rakocevic et al 2017, BioRxiv](https://www.biorxiv.org/content/early/2018/03/20/194530).
