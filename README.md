@@ -12,17 +12,13 @@ Tools include both the software/GitHub link and the original paper, as follows:
 
 ## 1. Introduction to structural variation
 
-Copy Number Variations Detection: Unravelling the Problem in Tangible Aspects. [do Nascimento et al 2017, IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://www.computer.org/csdl/trans/tb/2017/06/07484749-abs.html).
+- A decade of structural variants: description, history and methods to detect structural variation. [Escaramís et al 2015, Brief Funct Genomics](https://academic.oup.com/bfg/article/14/5/305/184088).
 
-A decade of structural variants: description, history and methods to detect structural variation. [Escaramís et al 2015, Brief Funct Genomics](https://academic.oup.com/bfg/article/14/5/305/184088).
-
-The functional impact of structural variation in humans. 
+- The functional impact of structural variation in humans. 
 [Hurles et al 2008, Trends Genet](https://www.sciencedirect.com/science/article/pii/S0168952508000784?via%3Dihub). 
 
 ## 2. Detecting SVs in whole genome data
 ### 2.1 Genome quality checks
-
-Recommended reading:
 
 - How complete are ‘complete’ genome assemblies? An avian perspective. [Peona et al 2018, Mol. Ecol. Resour](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.12933).
 
