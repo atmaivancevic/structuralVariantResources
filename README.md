@@ -102,7 +102,7 @@ The following tools were collated from recent reviews, e.g.:
 #### Local re-assembly (LR):
 
 - [Fast-SG](https://github.com/adigenova/fast-sg): An alignment-free algorithm for hybrid assembly. [Di Genova et al 2018, Gigascience](https://academic.oup.com/gigascience/article/7/5/giy048/4993155).
-- [IDP-denovo](https://www.healthcare.uiowa.edu/labs/au/IDP-denovo/): De novo transcriptome assembly and isoform annotation by hybrid sequencing. [Fu et al 2018 Bioinformatics](https://academic.oup.com/bioinformatics/article/34/13/2168/4904264).
+- [IDP-denovo](https://www.healthcare.uiowa.edu/labs/au/IDP-denovo/): De novo transcriptome assembly and isoform annotation by hybrid sequencing. [Fu et al 2018, Bioinformatics](https://academic.oup.com/bioinformatics/article/34/13/2168/4904264).
 - [TIGRA](http://bioinformatics.mdanderson.org/main/TIGRA): A targeted iterative graph routing assembler for breakpoint assembly. [Chen et al 2014, Genome Research](https://genome.cshlp.org/content/24/2/310).  
 - [Cortex](http://cortexassembler.sourceforge.net/): De novo assembly and genotyping of variants using colored de bruijn graphs. [Iqbal et al 2012, Nature Genetics](https://www.nature.com/articles/ng.1028).  
 - [Magnolya](https://sourceforge.net/projects/magnolya/): De novo detection of copy number variation by co-assembly. [Nijkamp et al 2012, Bioinformatics](https://academic.oup.com/bioinformatics/article/28/24/3195/245056).
